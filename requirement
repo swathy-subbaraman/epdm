@@ -1,0 +1,11 @@
+%%writefile requirements.txt
+gradio
+groq
+langchain
+langchain-core
+langchain-groq
+langchain-community
+chromadb
+pypdf
+sentence-transformers
+transformers
